@@ -97,7 +97,7 @@ def list_meters(current_user):
     
     for i in range(len(users_meters)):
         meter = users_meters[i]
-        print(f"{i + 1} {meter['alais']} -{meter['meter_number']}")
+        print(f"{i + 1} {meter['alias']} -{meter['meter_number']}")
     
     return users_meters
     
@@ -138,6 +138,6 @@ def choose_meter(current_user):
     """
     
     select_meter = users_meters[choice - 1]
-    print(f"selected meter: {select_meter['alais']}")
+    print(f"selected meter: {select_meter['alias']}")
     
     return select_meter
