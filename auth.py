@@ -62,7 +62,7 @@ def register():
     print("Account has been created.")
     return user_object.user_to_dict()
 
-
+@log
 def login():
 
     users_list = load_users()
@@ -74,7 +74,7 @@ def login():
         print("User not found.") 
         return None
     
-    if user.get("is_locked ") == True:
+    if user.get("is_locked") == True:
         print("Account locked.")
         return None
     tries = 0
@@ -91,3 +91,4 @@ def login():
     save_users(users_list)
 
     print("Too many tries . Account has been locked")
+    return None
