@@ -18,7 +18,6 @@ class User:
 class Meter:
     def __init__(self, meter_id, user_id, meter_number, alias):
         self.id = meter_id
-        self.meter_id = meter_id
         self.user_id = user_id
         self.meter_number = meter_number
         self.alias = alias
@@ -27,7 +26,6 @@ class Meter:
         return {
             "id": self.id,
             "meter_id": self.meter_id,
-            "user_id": self.user_id,
             "meter_number": self.meter_number,
             "alias": self.alias
         }
