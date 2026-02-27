@@ -1,15 +1,59 @@
-from auth import register, login 
-def main():
-    print("MeterLink CLI")
-    print("1) Register ")
-    print("2) Login")
-    print("3) Exit")
-    choice = input("choice: ").strip()
+from auth import register, login
+from meters import add_meter, list_meters, choose_meter
+from purchases import show_purchases
 
-    if choice == "1":
-        register()
-    elif choice == "2":
-        login()
+
+def main():
+
+    current_user = None
+    selected_meter = None
+
+    if current_user is None:
+        print("MeterLink CLI")
+        print("1) Register ")
+        print("2) Login")
+        print("3) Exit")
+        choice = input("Choice: ").strip()
+
+        if choice == "1":
+            register()
+        elif choice == "2":
+            current_user = login()
+        elif choice == "3":
+            print("Bye")
+        else:
+            print("Invalid choice.")
     else:
-        print("Bye")
+        username = current_user["username"]
+        print("Logged in as {username}")
+
+        if selected_meter is None:
+            print("Selected meter: None")
+        else:
+            print(f"Selected meter: {selected_meter['alias']}")
+
+        print("1) Add Meter")
+        print("2) List Meters")
+        print("3) Choose Meter")
+        print("4) View Purchases")
+        print("5) Logout")
+
+        choice = input("Choice: ").strip()
+
+        if choice == "1":
+            add_meter(current_user)
+        elif choice == "2":
+            list_meters(current_user)
+        elif choice == "3":
+            selected_meter = choose_meter(current_user)
+        elif choice == "4":
+            show_purchases(selected_meter)
+        elif choice == "5":
+            current_user = None
+            selected_meter = None
+            print("Logged out.")
+        else:
+            print("Invalid choice.")
+
+
 main()
