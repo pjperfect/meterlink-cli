@@ -14,7 +14,7 @@ def add_meter(current_user):
         print("Meter number must contain digits only.")
         return None
     
-    if len(meter_number) != 11 or len(meter_number) != 13:
+    if len(meter_number) != 11 and len(meter_number) != 13:
         print("Meter number must be 11 or 13 digits.")
         return None
     
