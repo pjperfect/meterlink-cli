@@ -25,7 +25,7 @@ class Meter:
     def meter_to_dict(self):
         return {
             "id": self.id,
-            "meter_id": self.meter_id,
+            "user_id": self.user_id,
             "meter_number": self.meter_number,
             "alias": self.alias
         }
