@@ -33,7 +33,7 @@ def add_meter(current_user):
 
     meter_object = Meter(
         meter_id = new_id,
-        user_id = current_user[id],
+        user_id = current_user["id"],
         meter_number = meter_number,
         alias= alias
 
