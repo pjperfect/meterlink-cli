@@ -7,7 +7,7 @@ def import_excel_for_meter(current_user, selected_meter):
         print("Select a meter first.")
         return None
 
-    if selected_meter["user_id"] !== current_user["id"]:
+    if selected_meter["user_id"] != current_user["id"]:
         print("This meter is not yours.")
         return None
 
@@ -29,7 +29,7 @@ def import_excel_for_meter(current_user, selected_meter):
     if amount is None or mpesa_code is None:
         row = row + 1
 
-    amount_int = float(amount)
+    amount_float = float(amount)
 
     new_purchase = {
         "id": get_next_id(purchases_list),
