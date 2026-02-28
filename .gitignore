@@ -4,4 +4,6 @@ __pycache__/
 .env
 data/*.json
 *.xlsx
+!templates/meterlink_template.xlsx
 log.txt
+*:Zone.Identifier
