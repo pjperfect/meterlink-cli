@@ -83,7 +83,7 @@ def login():
 
         if hash_password(password) == user["password_hash"]:
             print("Login successful.")
-            return User
+            return user
         
         tries = tries + 1
         print(f"Wrong password {3 -tries} tries remaining.")
