@@ -1,0 +1,22 @@
+MeterLink Examples Folder
+=========================
+This folder contains copy/paste examples for testing your parser and Excel import.
+
+Files:
+- mpesa_examples.txt
+  Contains many single-line M-Pesa confirmation SMS examples.
+  Copy one whole message into Excel Column A.
+
+- kplc_examples.txt
+  Contains many multi-line KPLC token SMS examples.
+  Copy one whole block into Excel Column B.
+  (Excel allows new lines inside a cell.)
+
+- paired_row_examples.txt
+  Contains many "pairs" where Column A and Column B belong to the same purchase
+  (same meter number + same amount). This is best for testing.
+
+Notes:
+- All data here is dummy sample data for testing.
+- Each Excel row represents ONE purchase.
+  Column A is optional, Column B is optional, but at least one must be filled.

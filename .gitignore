@@ -7,3 +7,6 @@ data/*.json
 !templates/meterlink_template.xlsx
 log.txt
 *:Zone.Identifier
+build/
+dist/
+*.spec

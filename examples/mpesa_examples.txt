@@ -1,0 +1,72 @@
+M-PESA SMS EXAMPLES (copy one message at a time)
+------------------------------------------------
+
+[M-PESA #1]
+D6NCF10EPF Confirmed. Ksh300.00 sent to KPLC PREPAID for account 44444444444 on 21/01/25 at 09:05 PM New M-PESA balance is Ksh10,050.10. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #2]
+DN581U33XT Confirmed. Ksh300.00 sent to KPLC PREPAID for account 3912345678903 on 19/10/25 at 06:05 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #3]
+FR4EDT2SYW Confirmed. Ksh1,000.00 sent to KPLC PREPAID for account 12345678901 on 23/06/26 at 10:30 AM New M-PESA balance is Ksh2,550.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #4]
+LJOOA5LQSA Confirmed. Ksh750.00 sent to KPLC PREPAID for account 3712345678901 on 14/06/26 at 04:10 AM New M-PESA balance is Ksh90,500.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #5]
+8GXBENYJQW Confirmed. Ksh2,000.00 sent to KPLC PREPAID for account 22222222222 on 04/06/25 at 02:00 AM New M-PESA balance is Ksh13,800.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #6]
+KWO886VOMP Confirmed. Ksh200.00 sent to KPLC PREPAID for account 3912345678903 on 10/11/25 at 12:18 PM New M-PESA balance is Ksh400.25. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #7]
+FHYM4L1VFZ Confirmed. Ksh500.00 sent to KPLC PREPAID for account 44444444444 on 20/10/25 at 08:50 PM New M-PESA balance is Ksh10,050.10. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #8]
+6PUQ80IDW3 Confirmed. Ksh1,500.00 sent to KPLC PREPAID for account 11111111111 on 27/04/25 at 05:15 PM New M-PESA balance is Ksh13,800.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #9]
+G629BE2U66 Confirmed. Ksh2,000.00 sent to KPLC PREPAID for account 3912345678903 on 18/01/25 at 04:18 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #10]
+3OGZ5KOK16 Confirmed. Ksh750.00 sent to KPLC PREPAID for account 22222222222 on 25/03/26 at 03:18 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #11]
+1QZJ865UFR Confirmed. Ksh250.00 sent to KPLC PREPAID for account 22222222222 on 09/05/25 at 03:18 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #12]
+T7NS26LRWB Confirmed. Ksh500.00 sent to KPLC PREPAID for account 3912345678903 on 06/05/25 at 03:15 PM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #13]
+1KDFY6SPSC Confirmed. Ksh1,500.00 sent to KPLC PREPAID for account 11111111111 on 02/03/25 at 02:50 PM New M-PESA balance is Ksh2,550.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #14]
+ZCZBTTOF7J Confirmed. Ksh500.00 sent to KPLC PREPAID for account 3912345678903 on 17/01/25 at 05:05 AM New M-PESA balance is Ksh13,800.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #15]
+5QA3E68F7E Confirmed. Ksh250.00 sent to KPLC PREPAID for account 44444444444 on 27/08/25 at 11:00 AM New M-PESA balance is Ksh10,050.10. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #16]
+GN5S7S333H Confirmed. Ksh350.00 sent to KPLC PREPAID for account 33333333333 on 05/01/26 at 01:45 PM New M-PESA balance is Ksh15,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #17]
+62RYNNEFJ7 Confirmed. Ksh120.00 sent to KPLC PREPAID for account 3912345678903 on 03/08/25 at 05:45 AM New M-PESA balance is Ksh5,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #18]
+55ZBKA52ZT Confirmed. Ksh180.00 sent to KPLC PREPAID for account 33333333333 on 20/11/26 at 02:30 AM New M-PESA balance is Ksh1,200.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #19]
+VZHMASQXEZ Confirmed. Ksh220.00 sent to KPLC PREPAID for account 11111111111 on 13/06/25 at 06:00 PM New M-PESA balance is Ksh5,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #20]
+GDSJPR16UM Confirmed. Ksh900.00 sent to KPLC PREPAID for account 3712345678901 on 03/06/26 at 05:00 PM New M-PESA balance is Ksh15,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #21]
+D02IS5D9IK Confirmed. Ksh900.00 sent to KPLC PREPAID for account 44444444444 on 01/11/26 at 09:15 AM New M-PESA balance is Ksh5,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #22]
+PT49ZHKKEN Confirmed. Ksh220.00 sent to KPLC PREPAID for account 3812345678902 on 10/05/26 at 12:30 PM New M-PESA balance is Ksh5,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[M-PESA #23]
+I9MPFLV9FU Confirmed. Ksh900.00 sent to KPLC PREPAID for account 3912345678903 on 18/04/26 at 06:45 PM New M-PESA balance is Ksh5,000.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+

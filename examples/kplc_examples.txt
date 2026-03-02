@@ -1,0 +1,233 @@
+KPLC TOKEN SMS EXAMPLES (copy one block at a time)
+--------------------------------------------------
+
+[KPLC #1]
+Mtr:44444444444
+Token:0913-9099-6030-8246-2819
+Date:20250121 17:40
+Units:12.4
+Amt:300.00
+TknAmt:196.86
+OtherCharges:103.14
+For Details dial *977#
+
+[KPLC #2]
+Mtr:3912345678903
+Token:3194-8757-4911-8625-2760
+Date:20251019 07:15
+Units:39.8
+Amt:300.00
+TknAmt:196.86
+OtherCharges:103.14
+For Details dial *977#
+
+[KPLC #3]
+Mtr:12345678901
+Token:5291-7034-2366-7127-6842
+Date:20260623 00:55
+Units:45.0
+Amt:1000.00
+TknAmt:656.21
+OtherCharges:343.79
+For Details dial *977#
+
+[KPLC #4]
+Mtr:3712345678901
+Token:8599-5289-0786-6661-7603
+Date:20260614 04:40
+Units:7.5
+Amt:750.00
+TknAmt:492.16
+OtherCharges:257.84
+For Details dial *977#
+
+[KPLC #5]
+Mtr:22222222222
+Token:7117-7774-1215-4728-0385
+Date:20250604 19:30
+Units:10.0
+Amt:2000.00
+TknAmt:1312.42
+OtherCharges:687.58
+For Details dial *977#
+
+[KPLC #6]
+Mtr:3912345678903
+Token:3875-0047-4395-7551-3137
+Date:20251110 12:19
+Units:10.0
+Amt:200.00
+TknAmt:131.24
+OtherCharges:68.76
+For Details dial *977#
+
+[KPLC #7]
+Mtr:44444444444
+Token:1222-0297-2997-5288-2001
+Date:20251020 14:40
+Units:23.7
+Amt:500.00
+TknAmt:328.10
+OtherCharges:171.90
+For Details dial *977#
+
+[KPLC #8]
+Mtr:11111111111
+Token:8282-8807-2902-2279-1805
+Date:20250427 21:40
+Units:39.8
+Amt:1500.00
+TknAmt:984.31
+OtherCharges:515.69
+For Details dial *977#
+
+[KPLC #9]
+Mtr:3912345678903
+Token:7887-8384-8372-6167-5136
+Date:20250118 06:25
+Units:7.5
+Amt:2000.00
+TknAmt:1312.42
+OtherCharges:687.58
+For Details dial *977#
+
+[KPLC #10]
+Mtr:22222222222
+Token:6355-1505-8770-6589-4811
+Date:20260325 12:30
+Units:45.0
+Amt:750.00
+TknAmt:492.16
+OtherCharges:257.84
+For Details dial *977#
+
+[KPLC #11]
+Mtr:22222222222
+Token:6140-1419-3141-7058-6492
+Date:20250509 01:15
+Units:7.5
+Amt:250.00
+TknAmt:164.05
+OtherCharges:85.95
+For Details dial *977#
+
+[KPLC #12]
+Mtr:3912345678903
+Token:0088-3873-7167-8684-3353
+Date:20250506 08:00
+Units:45.0
+Amt:500.00
+TknAmt:328.10
+OtherCharges:171.90
+For Details dial *977#
+
+[KPLC #13]
+Mtr:11111111111
+Token:2470-4558-5304-3520-5617
+Date:20250302 14:15
+Units:12.4
+Amt:1500.00
+TknAmt:984.31
+OtherCharges:515.69
+For Details dial *977#
+
+[KPLC #14]
+Mtr:3912345678903
+Token:5724-9208-6828-8909-3100
+Date:20250117 21:40
+Units:10.0
+Amt:500.00
+TknAmt:328.10
+OtherCharges:171.90
+For Details dial *977#
+
+[KPLC #15]
+Mtr:44444444444
+Token:4143-3377-6174-0931-9254
+Date:20250827 23:55
+Units:39.8
+Amt:250.00
+TknAmt:164.05
+OtherCharges:85.95
+For Details dial *977#
+
+[KPLC #16]
+Mtr:22222222222
+Token:6668-3645-0749-5288-3143
+Date:20261007 00:41
+Units:22.0
+Amt:450.00
+TknAmt:295.29
+OtherCharges:154.71
+For Details dial *977#
+
+[KPLC #17]
+Mtr:3712345678901
+Token:0679-7016-8773-1322-8171
+Date:20260528 00:12
+Units:31.5
+Amt:800.00
+TknAmt:524.97
+OtherCharges:275.03
+For Details dial *977#
+
+[KPLC #18]
+Mtr:04215776788
+Token:4248-6111-4893-6439-0084
+Date:20250419 01:41
+Units:22.0
+Amt:100.00
+TknAmt:65.62
+OtherCharges:34.38
+For Details dial *977#
+
+[KPLC #19]
+Mtr:33333333333
+Token:3064-0037-6143-6537-0565
+Date:20250817 07:33
+Units:22.0
+Amt:450.00
+TknAmt:295.29
+OtherCharges:154.71
+For Details dial *977#
+
+[KPLC #20]
+Mtr:22222222222
+Token:3734-3373-4419-7923-7609
+Date:20261228 16:05
+Units:8.6
+Amt:100.00
+TknAmt:65.62
+OtherCharges:34.38
+For Details dial *977#
+
+[KPLC #21]
+Mtr:3712345678901
+Token:0026-7511-2532-8704-6557
+Date:20250120 04:27
+Units:8.6
+Amt:100.00
+TknAmt:65.62
+OtherCharges:34.38
+For Details dial *977#
+
+[KPLC #22]
+Mtr:12345678901
+Token:1836-5461-0735-8735-5706
+Date:20250503 11:27
+Units:8.6
+Amt:100.00
+TknAmt:65.62
+OtherCharges:34.38
+For Details dial *977#
+
+[KPLC #23]
+Mtr:3712345678901
+Token:0431-9554-5904-5440-9103
+Date:20260115 02:55
+Units:5.0
+Amt:100.00
+TknAmt:65.62
+OtherCharges:34.38
+For Details dial *977#
+
