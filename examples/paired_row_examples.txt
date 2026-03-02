@@ -1,0 +1,217 @@
+PAIRED EXCEL ROW EXAMPLES (Column A = M-Pesa, Column B = KPLC)
+-------------------------------------------------------------
+
+Copy/paste instructions:
+ - Copy the M-Pesa message into Excel Column A (same row)
+ - Copy the KPLC block into Excel Column B (same row)
+
+=== ROW #1 ===
+[COLUMN A - M-PESA]
+D6NCF10EPF Confirmed. Ksh300.00 sent to KPLC PREPAID for account 44444444444 on 21/01/25 at 09:05 PM New M-PESA balance is Ksh10,050.10. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:44444444444
+Token:0913-9099-6030-8246-2819
+Date:20250121 17:40
+Units:12.4
+Amt:300.00
+TknAmt:196.86
+OtherCharges:103.14
+For Details dial *977#
+
+=== ROW #2 ===
+[COLUMN A - M-PESA]
+DN581U33XT Confirmed. Ksh300.00 sent to KPLC PREPAID for account 3912345678903 on 19/10/25 at 06:05 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:3912345678903
+Token:3194-8757-4911-8625-2760
+Date:20251019 07:15
+Units:39.8
+Amt:300.00
+TknAmt:196.86
+OtherCharges:103.14
+For Details dial *977#
+
+=== ROW #3 ===
+[COLUMN A - M-PESA]
+FR4EDT2SYW Confirmed. Ksh1,000.00 sent to KPLC PREPAID for account 12345678901 on 23/06/26 at 10:30 AM New M-PESA balance is Ksh2,550.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:12345678901
+Token:5291-7034-2366-7127-6842
+Date:20260623 00:55
+Units:45.0
+Amt:1000.00
+TknAmt:656.21
+OtherCharges:343.79
+For Details dial *977#
+
+=== ROW #4 ===
+[COLUMN A - M-PESA]
+LJOOA5LQSA Confirmed. Ksh750.00 sent to KPLC PREPAID for account 3712345678901 on 14/06/26 at 04:10 AM New M-PESA balance is Ksh90,500.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:3712345678901
+Token:8599-5289-0786-6661-7603
+Date:20260614 04:40
+Units:7.5
+Amt:750.00
+TknAmt:492.16
+OtherCharges:257.84
+For Details dial *977#
+
+=== ROW #5 ===
+[COLUMN A - M-PESA]
+8GXBENYJQW Confirmed. Ksh2,000.00 sent to KPLC PREPAID for account 22222222222 on 04/06/25 at 02:00 AM New M-PESA balance is Ksh13,800.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:22222222222
+Token:7117-7774-1215-4728-0385
+Date:20250604 19:30
+Units:10.0
+Amt:2000.00
+TknAmt:1312.42
+OtherCharges:687.58
+For Details dial *977#
+
+=== ROW #6 ===
+[COLUMN A - M-PESA]
+KWO886VOMP Confirmed. Ksh200.00 sent to KPLC PREPAID for account 3912345678903 on 10/11/25 at 12:18 PM New M-PESA balance is Ksh400.25. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:3912345678903
+Token:3875-0047-4395-7551-3137
+Date:20251110 12:19
+Units:10.0
+Amt:200.00
+TknAmt:131.24
+OtherCharges:68.76
+For Details dial *977#
+
+=== ROW #7 ===
+[COLUMN A - M-PESA]
+FHYM4L1VFZ Confirmed. Ksh500.00 sent to KPLC PREPAID for account 44444444444 on 20/10/25 at 08:50 PM New M-PESA balance is Ksh10,050.10. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:44444444444
+Token:1222-0297-2997-5288-2001
+Date:20251020 14:40
+Units:23.7
+Amt:500.00
+TknAmt:328.10
+OtherCharges:171.90
+For Details dial *977#
+
+=== ROW #8 ===
+[COLUMN A - M-PESA]
+6PUQ80IDW3 Confirmed. Ksh1,500.00 sent to KPLC PREPAID for account 11111111111 on 27/04/25 at 05:15 PM New M-PESA balance is Ksh13,800.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:11111111111
+Token:8282-8807-2902-2279-1805
+Date:20250427 21:40
+Units:39.8
+Amt:1500.00
+TknAmt:984.31
+OtherCharges:515.69
+For Details dial *977#
+
+=== ROW #9 ===
+[COLUMN A - M-PESA]
+G629BE2U66 Confirmed. Ksh2,000.00 sent to KPLC PREPAID for account 3912345678903 on 18/01/25 at 04:18 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:3912345678903
+Token:7887-8384-8372-6167-5136
+Date:20250118 06:25
+Units:7.5
+Amt:2000.00
+TknAmt:1312.42
+OtherCharges:687.58
+For Details dial *977#
+
+=== ROW #10 ===
+[COLUMN A - M-PESA]
+3OGZ5KOK16 Confirmed. Ksh750.00 sent to KPLC PREPAID for account 22222222222 on 25/03/26 at 03:18 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:22222222222
+Token:6355-1505-8770-6589-4811
+Date:20260325 12:30
+Units:45.0
+Amt:750.00
+TknAmt:492.16
+OtherCharges:257.84
+For Details dial *977#
+
+=== ROW #11 ===
+[COLUMN A - M-PESA]
+1QZJ865UFR Confirmed. Ksh250.00 sent to KPLC PREPAID for account 22222222222 on 09/05/25 at 03:18 AM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:22222222222
+Token:6140-1419-3141-7058-6492
+Date:20250509 01:15
+Units:7.5
+Amt:250.00
+TknAmt:164.05
+OtherCharges:85.95
+For Details dial *977#
+
+=== ROW #12 ===
+[COLUMN A - M-PESA]
+T7NS26LRWB Confirmed. Ksh500.00 sent to KPLC PREPAID for account 3912345678903 on 06/05/25 at 03:15 PM New M-PESA balance is Ksh8,000.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:3912345678903
+Token:0088-3873-7167-8684-3353
+Date:20250506 08:00
+Units:45.0
+Amt:500.00
+TknAmt:328.10
+OtherCharges:171.90
+For Details dial *977#
+
+=== ROW #13 ===
+[COLUMN A - M-PESA]
+1KDFY6SPSC Confirmed. Ksh1,500.00 sent to KPLC PREPAID for account 11111111111 on 02/03/25 at 02:50 PM New M-PESA balance is Ksh2,550.00. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:11111111111
+Token:2470-4558-5304-3520-5617
+Date:20250302 14:15
+Units:12.4
+Amt:1500.00
+TknAmt:984.31
+OtherCharges:515.69
+For Details dial *977#
+
+=== ROW #14 ===
+[COLUMN A - M-PESA]
+ZCZBTTOF7J Confirmed. Ksh500.00 sent to KPLC PREPAID for account 3912345678903 on 17/01/25 at 05:05 AM New M-PESA balance is Ksh13,800.46. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:3912345678903
+Token:5724-9208-6828-8909-3100
+Date:20250117 21:40
+Units:10.0
+Amt:500.00
+TknAmt:328.10
+OtherCharges:171.90
+For Details dial *977#
+
+=== ROW #15 ===
+[COLUMN A - M-PESA]
+5QA3E68F7E Confirmed. Ksh250.00 sent to KPLC PREPAID for account 44444444444 on 27/08/25 at 11:00 AM New M-PESA balance is Ksh10,050.10. Transaction cost, Ksh10.00. Amount you can transact within the day is 498,551.00.
+
+[COLUMN B - KPLC]
+Mtr:44444444444
+Token:4143-3377-6174-0931-9254
+Date:20250827 23:55
+Units:39.8
+Amt:250.00
+TknAmt:164.05
+OtherCharges:85.95
+For Details dial *977#
+
